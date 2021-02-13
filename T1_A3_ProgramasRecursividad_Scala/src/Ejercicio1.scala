@@ -1,4 +1,4 @@
-
+import scala.io.StdIn._
 
 object Ejercicio1 {
        /*
